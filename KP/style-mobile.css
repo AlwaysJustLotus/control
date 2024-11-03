@@ -1,0 +1,127 @@
+@media screen and (max-width: 375px) {
+    body {
+        font-size: 16px;
+        padding: 0 15px;
+    }
+
+    .section__info {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .section__info h1 {
+        font-size: 24px;
+        line-height: 1.2;
+    }
+
+    .section__info p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .section__info img {
+        width: 100%;
+        max-width: 250px;
+        height: auto;
+    }
+
+    .Send_Request, .Download_CV {
+        width: 100%;
+        max-width: 250px;
+        height: 45px;
+        font-size: 16px;
+        margin: 15px 0;
+    }
+
+    .projects__block {
+        padding: 20px;
+        text-align: center;
+        background-color: #ffab40;
+        color: #ffffff;
+    }
+
+    .projects__block h2 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    .why__choose__me {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .why__choose__me h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .why__choose__me__item {
+        margin-bottom: 20px;
+    }
+
+    .portfolio__section {
+        padding: 20px;
+    }
+
+    .portfolio__section h2 {
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .portfolio__item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .pricing__section {
+        padding: 20px;
+    }
+
+    .pricing__plan {
+        margin-bottom: 20px;
+        padding: 15px;
+        background-color: #ffab40;
+        color: #ffffff;
+        border-radius: 8px;
+        text-align: center;
+    }
+
+    .pricing__plan h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .pricing__plan ul {
+        font-size: 16px;
+    }
+
+    .pricing__plan .price {
+        font-size: 24px;
+        margin: 15px 0;
+    }
+
+    .blog__section {
+        padding: 20px;
+    }
+
+    .blog__section h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .blog__item {
+        padding: 15px;
+        background-color: #f4f4f4;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    footer {
+        font-size: 14px;
+        text-align: center;
+        padding: 20px;
+        background-color: #333;
+        color: #fff;
+    }
+}
